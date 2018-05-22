@@ -758,5 +758,7 @@ public class Admin extends javax.swing.JFrame implements Item {
     private javax.swing.JTextField txtStock;
     // End of variables declaration//GEN-END:variables
     private JFileChooser filechoose;
+    
+    //yesyesyes
 }
 
