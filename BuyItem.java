@@ -5,10 +5,7 @@
  */
 package Final;
 
-/**
- *
- * @author sefira karina
- */
+
 public class BuyItem 
 {
     private double quantity ;
